@@ -125,7 +125,7 @@ Dashboard ini memberikan wawasan yang dapat ditindaklanjuti mengenai performa ma
 Langkah-langkah untuk menjalankan sistem machine learning melalui dashboard Streamlit adalah sebagai berikut:
 
 1. **Buka Streamlit Dashboard**  
-   Akses dashboard melalui link berikut: [Example Streamlit](https://app-prediction-dashboard-for-student-status-bjeylyuhper3sltxt8.streamlit.app/). Tunggu beberapa saat hingga halaman sepenuhnya ter-load.
+   Akses dashboard melalui link berikut: [Example Streamlit](https://dashboard-for-student-status-prediction.streamlit.app/). Tunggu beberapa saat hingga halaman sepenuhnya ter-load.
 
 2. **Navigasi Menu**  
    Setelah halaman ter-load, perhatikan berbagai menu yang ada. Pada sidebar, kamu dapat membaca informasi tentang diri saya serta penjelasan mengenai dashboard.  
